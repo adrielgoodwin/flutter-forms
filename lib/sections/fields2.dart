@@ -5,6 +5,11 @@ import 'package:flutter/material.dart';
 class Fields2 extends StatelessWidget {
   const Fields2({Key? key}) : super(key: key);
 
+  /// please look at the widget CodeExample.
+  ///  See how it is implemented in fields1
+  ///  implement here and in fields3
+  ///  make it look nicer if you want to
+
   // ignore: non_constant_identifier_names
   Widget Label(String title) {
     return Padding(
